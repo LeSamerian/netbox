@@ -37,7 +37,9 @@ Please see [the documentation](http://netbox.readthedocs.io/en/stable/) for
 instructions on installing NetBox. To upgrade NetBox, please download the [latest release](https://github.com/digitalocean/netbox/releases)
 and run `upgrade.sh`.
 
-## Alternative Installations
+#Samer added changes
+
+# Alternative Installations
 
 * [Docker container](https://github.com/ninech/netbox-docker) (via [@cimnine](https://github.com/cimnine))
 * [Vagrant deployment](https://github.com/ryanmerolle/netbox-vagrant) (via [@ryanmerolle](https://github.com/ryanmerolle))
